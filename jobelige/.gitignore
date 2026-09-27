@@ -1,0 +1,50 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+backend/.venv/
+venv/
+.venv/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.cache/
+frontend/package-lock.json
+
+# Database / local state
+*.sqlite3
+*.db
+*.log
+
+# Temporary / generated files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Keep docs and examples
+!docs/
+!**/.env.example

@@ -1,0 +1,1 @@
+"""JobEligAI FastAPI application."""
