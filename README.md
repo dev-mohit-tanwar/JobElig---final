@@ -93,7 +93,7 @@ The design intentionally keeps the backend as the orchestration layer. The front
 ## 4. Project structure
 
 ```text
-jobelige/
+jobElige/
 ├── .gitignore
 ├── README.md
 ├── backend/
@@ -441,7 +441,7 @@ The frontend should never receive the service-role secret or Gemini key.
 ### 1. Backend setup
 
 ```powershell
-cd "C:\Users\mohit\Downloads\jobelige\jobelige\backend"
+...\jobelige\jobelige\backend
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
@@ -455,7 +455,7 @@ The API is expected at:
 ### 2. Frontend setup
 
 ```powershell
-cd "C:\Users\mohit\Downloads\jobelige\jobelige\frontend"
+..\jobelige\jobelige\frontend
 npm install
 npm run dev -- --host 0.0.0.0 --port 5173
 ```
