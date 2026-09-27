@@ -1,4 +1,4 @@
-<img width="798" height="399" alt="image" src="https://github.com/user-attachments/assets/8a4d686b-582f-455e-bcef-183e23e9fb0e" /># JobEligAI
+# JobEligAI
 
 [Click here to run demo](https://github.com/dev-mohit-tanwar/JobElig---final)
 
