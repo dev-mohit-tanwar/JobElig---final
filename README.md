@@ -1,6 +1,6 @@
 # JobEligAI
 
-[Click here to run demo](https://github.com/dev-mohit-tanwar/JobElig---final)
+[Click here to run demo](https://dev-mohit-tanwar.github.io/JobElig---final/)
 
 JobEligAI is a full-stack application designed to help a user assess whether a candidate appears to meet eligibility requirements for a public-sector recruitment notification. The system accepts a PDF recruitment notice, converts it into structured information, compares it with a candidate profile, and returns eligibility status with explanations and source references.
 
